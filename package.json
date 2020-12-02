@@ -4,7 +4,7 @@
   "description": "ELON MUSK DISCORD BOT JAVASCRIPT",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "keywords": [
     "ELON-MUSK",
@@ -16,6 +16,7 @@
   "author": "AhsabAli2000",
   "license": "MIT",
   "dependencies": {
-    "discord.js": "^12.4.1"
+    "discord.js": "^12.4.1",
+    "dotenv": "^8.2.0"
   }
 }
