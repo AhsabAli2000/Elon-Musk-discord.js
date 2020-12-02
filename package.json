@@ -1,0 +1,21 @@
+{
+  "name": "elon-muskjs",
+  "version": "1.0.0",
+  "description": "ELON MUSK DISCORD BOT JAVASCRIPT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ELON-MUSK",
+    "JAVASCRIPT",
+    "DISCORD",
+    "COOLESTMANONEARTH",
+    "NO"
+  ],
+  "author": "AhsabAli2000",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  }
+}
